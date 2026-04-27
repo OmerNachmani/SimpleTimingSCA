@@ -18,7 +18,6 @@ The attack recovers the PIN one position at a time:
 Usage:
     python timing_attack_first_demo.py [--port /dev/ttyACM0] [--baud 9600]
 
-Educational use only.
 """
 
 from __future__ import annotations
