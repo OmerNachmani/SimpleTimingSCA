@@ -16,8 +16,6 @@
  * The sketch also accepts PIN attempts over the USB serial line, which is
  * how the Python attacker drives it.
  *
- * NOTE: This is a teaching artifact. Do not use this code (or anything
- * resembling it) for a real lock.
  */
 
 #include <Keypad.h>
