@@ -5,9 +5,6 @@ a 4-digit PIN lock running on an Arduino. Built for teaching: small enough to
 read in one sitting, big enough to actually crack a "secret" PIN over USB
 serial in a few seconds.
 
-> Educational use only. Do not deploy this code (or anything resembling it)
-> as a real authentication mechanism.
-
 ## How it works
 
 The Arduino sketch implements a deliberately vulnerable PIN check:
